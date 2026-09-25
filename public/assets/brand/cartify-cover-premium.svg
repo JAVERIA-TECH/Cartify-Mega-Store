@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 720">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffaf1"/><stop offset="1" stop-color="#eadfc9"/></linearGradient><linearGradient id="gold"><stop stop-color="#8e6a28"/><stop offset=".5" stop-color="#e1bb62"/><stop offset="1" stop-color="#8e6a28"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="15" stdDeviation="15" flood-opacity=".18"/></filter></defs>
+<rect width="1600" height="720" rx="55" fill="url(#bg)"/>
+<path d="M0 0h390c-55 115-75 210-30 305H0z" fill="#171512"/>
+<path d="M1600 720h-360c80-90 105-200 65-330h295z" fill="#171512"/>
+<text x="50" y="75" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#e1bb62">QUALITY PRODUCTS</text><text x="50" y="108" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#e1bb62">TRENDY PICKS</text><text x="50" y="141" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#e1bb62">EVERYDAY ESSENTIALS</text>
+<!-- stylized left product cluster -->
+<g filter="url(#shadow)"><path d="M105 560c35-130 45-220 135-245 90-25 150 80 120 170-24 72-75 113-160 113z" fill="#202321"/><path d="M245 330c-18-105 155-105 135 5l-22 135H270z" fill="#171918"/><rect x="170" y="505" width="240" height="85" rx="20" fill="#222625"/></g>
+<!-- center logo -->
+<g transform="translate(545 75)"><path d="M70 100h48l25 175h220l45-122H143" fill="none" stroke="#171512" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/><circle cx="190" cy="310" r="21" fill="#171512"/><circle cx="365" cy="310" r="21" fill="#171512"/><path d="M215 105c65-75 170-78 235-18" fill="none" stroke="url(#gold)" stroke-width="30" stroke-linecap="round"/></g>
+<text x="800" y="335" text-anchor="middle" font-family="Arial,sans-serif" font-size="94" font-weight="900" letter-spacing="4" fill="#171512">CARTIFY</text>
+<text x="800" y="382" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" letter-spacing="7" fill="#57534c">SMART SHOPPING  •  BETTER LIVING</text>
+<text x="800" y="438" text-anchor="middle" font-family="Georgia,serif" font-size="45" font-style="italic" fill="#8e6a28">Your Next Favorite Finds</text>
+<!-- categories -->
+<g font-family="Arial,sans-serif" text-anchor="middle"><g fill="#171512"><circle cx="500" cy="520" r="34"/><circle cx="620" cy="520" r="34"/><circle cx="740" cy="520" r="34"/><circle cx="860" cy="520" r="34"/><circle cx="980" cy="520" r="34"/><circle cx="1100" cy="520" r="34"/></g><g fill="#e1bb62" font-size="13"><text x="500" y="525">TECH</text><text x="620" y="525">FASHION</text><text x="740" y="525">SHOES</text><text x="860" y="525">JEWELRY</text><text x="980" y="525">BEAUTY</text><text x="1100" y="525">SCENTS</text></g><g fill="#4e4a43" font-size="15" font-weight="700"><text x="500" y="580">Smart Gadgets</text><text x="620" y="580">Family Fashion</text><text x="740" y="580">Footwear</text><text x="860" y="580">Accessories</text><text x="980" y="580">Cosmetics</text><text x="1100" y="580">Perfumes</text></g></g>
+<rect x="670" y="625" width="260" height="52" rx="26" fill="#171512"/><text x="800" y="658" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#e1bb62">SHOP SMART  ✦</text>
+<!-- right beauty/fashion cluster -->
+<g filter="url(#shadow)"><rect x="1250" y="360" width="145" height="145" rx="20" fill="#d9b8b0"/><path d="M1190 525h260l-50 70h-170z" fill="#f4eee4"/><path d="M1260 340h120v190h-120z" fill="#171512"/><path d="M1270 350h100v150h-100z" fill="#d9b8b0"/><circle cx="1430" cy="360" r="48" fill="#cbb8a5"/><rect x="1430" y="390" width="18" height="110" fill="#8e6a28"/></g>
+</svg>

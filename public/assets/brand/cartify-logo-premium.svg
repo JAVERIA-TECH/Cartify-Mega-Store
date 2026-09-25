@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+<defs><radialGradient id="bg"><stop stop-color="#fffaf1"/><stop offset="1" stop-color="#eadfc9"/></radialGradient><linearGradient id="gold"><stop stop-color="#8e6a28"/><stop offset=".5" stop-color="#e1bb62"/><stop offset="1" stop-color="#8e6a28"/></linearGradient></defs>
+<circle cx="400" cy="400" r="375" fill="url(#bg)" stroke="#171512" stroke-width="12"/>
+<circle cx="400" cy="400" r="345" fill="none" stroke="url(#gold)" stroke-width="10"/>
+<g transform="translate(190 120)"><path d="M70 90h45l24 150h185l38-105H128" fill="none" stroke="#171512" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/><circle cx="165" cy="275" r="20" fill="#171512"/><circle cx="320" cy="275" r="20" fill="#171512"/><path d="M205 105c50-70 155-78 215-18" fill="none" stroke="url(#gold)" stroke-width="28" stroke-linecap="round"/></g>
+<text x="400" y="505" text-anchor="middle" font-family="Arial,sans-serif" font-size="82" font-weight="800" letter-spacing="5" fill="#171512">CARTIFY</text>
+<text x="400" y="565" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="5" fill="#8e6a28">MORE THAN JUST SHOPPING</text>
+<g fill="#8e6a28"><circle cx="250" cy="630" r="8"/><circle cx="400" cy="630" r="8"/><circle cx="550" cy="630" r="8"/></g>
+<text x="400" y="680" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="3" fill="#4e4a43">SMART FINDS • BETTER LIVING</text>
+</svg>
